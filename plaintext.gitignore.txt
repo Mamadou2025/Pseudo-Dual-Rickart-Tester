@@ -1,0 +1,11 @@
+# Ignore all files by default
+*
+
+# Include Python files
+!*.py
+
+# Include Jupyter Notebook files
+!*.ipynb
+
+# Include directories to preserve structure
+!*/
